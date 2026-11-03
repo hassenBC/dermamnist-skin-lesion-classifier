@@ -1,0 +1,5 @@
+numpy
+torch
+medmnist
+matplotlib
+torchinfo
